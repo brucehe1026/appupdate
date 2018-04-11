@@ -1,6 +1,6 @@
 {
 	"url": "http://192.168.2.212/appUpdate/control.apk",
-	"versionCode": 5,
+	"versionCode": 6,
 	"lastForce": 1,
-	"updateMessage": "[1]优化部分功能,增加远程开启adbd的功能<br/>[2]建议更新"
+	"updateMessage": "[1]优化部分功能,增加批量修改服务器地址，设备名等功能<br/>[2]建议更新"
 }
